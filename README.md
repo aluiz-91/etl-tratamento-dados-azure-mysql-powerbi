@@ -1,7 +1,7 @@
 # Desafio DIO: Processando e Transformando Dados com Power BI, MySQL e Azure
 
 ## 📋 Sobre o Projeto
-Este repositório contém a solução desenvolvida para o desafio prático da DIO, focado em engenharia, limpeza, tratamento e modelagem de dados[span_0](start_span)[span_0](end_span). O projeto demonstra um fluxo de ETL (*Extract, Transform, Load*) robusto integrando banco de dados relacional, ambiente em nuvem e ferramentas de transformação.
+Este repositório contém a solução desenvolvida para o desafio prático da DIO, focado em engenharia, limpeza, tratamento e modelagem de dados. O projeto demonstra um fluxo de ETL (*Extract, Transform, Load*) robusto integrando banco de dados relacional, ambiente em nuvem e ferramentas de transformação.
 
 ---
 
